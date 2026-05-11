@@ -1,0 +1,24 @@
+# VoiceQL Prototype - Requirements
+# Based on Song and Wong (2022) cascaded pipeline + conversational response extension
+# Install: pip install -r requirements.txt
+
+# Core LLM and AI
+openai
+langchain
+langchain-openai
+langchain-community
+
+# Speech IO
+openai-whisper
+elevenlabs
+sounddevice
+soundfile
+
+# Database
+sqlalchemy
+
+# Pipeline Framework
+pipecat-ai
+
+# Utilities
+python-dotenv
