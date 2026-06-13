@@ -4,7 +4,7 @@ Talk to a database. VoiceQL is a cascaded voice-to-SQL pipeline: you ask a quest
 
 This is a research prototype built as part of my MSc work on conversational database interfaces (Stellenbosch University, co-supervised with IBM Research Africa). It reimplements the cascaded architecture of Song & Wong (2022) and extends it with a novel spoken-response layer designed for multi-turn conversation.
 
-> **[FILL IN: link to 2-minute demo video — record one!]**
+> 
 
 ## Why this is interesting
 
